@@ -1,10 +1,10 @@
 ---
-title: "Course Enrollment Trends"
+title: "Fictional Course Enrollment Trends"
 author: "Yuemin"
 date: "2025-06-18"
 output:
-  slidy_presentation: default
   ioslides_presentation: default
+  slidy_presentation: default
 ---
 
 ```{r setup, include=FALSE}
